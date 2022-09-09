@@ -6,7 +6,7 @@
 /*betty style doc for function main goes there */
 /* 
 * main - if statement which print positive, negative or zero by iterating random number
-*
+* and return 0
 */
 int main(void)
 {
