@@ -4,7 +4,10 @@
 /* more headers goes there */
 
 /*betty style doc for function main goes there */
-/* if statement */
+/* 
+* main - if statement which print positive, negative or zero by iterating random number
+*
+*/
 int main(void)
 {
 	int n;
