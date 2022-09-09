@@ -2,9 +2,7 @@
 
 int main(void)
 {
-	char ch;
-  ch = "abcdefghijklmnopqrstuvwxyz\n";
+	char ch[] = "abcdefghijklmnopqrstuvwxyz\n";
   putchar(ch)
-
 		return (0);
 }
