@@ -3,6 +3,6 @@
 int main(void)
 {
 	char ch[] = "abcdefghijklmnopqrstuvwxyz\n";
-  putchar(ch)
+  putchar(ch[])
 		return (0);
 }
