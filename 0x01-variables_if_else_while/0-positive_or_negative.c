@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-/* more headers goes there */
+/* 0-positive_or_negative.c */
 
-/*betty style doc for function main goes there */
 /* 
 * main - if statement which print positive, negative or zero by iterating random number
 * and return 0
