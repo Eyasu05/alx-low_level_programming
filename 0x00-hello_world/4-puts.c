@@ -3,10 +3,10 @@
 
 int main() {
  
-  // initializing strings
+  /* initializing strings
   char str1[] = "Programming is like building a multilingual puzzle";
 
-  // writing to stdout
+  /* writing to stdout
   puts(str1);
 
   return 0;
