@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-
-/* 0-positive_or_negative.c 
+/* 
+*0-positive_or_negative.c 
 * main - if statement which print positive, negative or zero by iterating random number
-* and return 0 */
+* and return 0 
+*/
 int main(void)
 {
 	int n;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
