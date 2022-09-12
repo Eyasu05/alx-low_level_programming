@@ -7,6 +7,11 @@
 * main - if statement which print positive, negative or zero by iterating random number
 * and return 0
 */
+
+BIN_PATH="/usr/local/bin"
+BETTY_STYLE="betty-style"
+BETTY_DOC="betty-doc"
+	
 int main(void)
 {
 	int n;
