@@ -4,10 +4,9 @@ int main()
 {
   
     // Get the character to be written
-    char ch = '1';
+    char ch = 'zyxwvutsrqponmlkjihgfedcba';
   
     // Write the Character to stdout
-    for (ch = '1'; ch <= '9'; ch++)
         putchar(ch);
   
     return (0);
