@@ -1,16 +1,12 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-/* 0-positive_or_negative.c */
 
 /* 
+* 0-positive_or_negative.c 
 * main - if statement which print positive, negative or zero by iterating random number
 * and return 0
 */
-
-BETTY_STYLE="betty-style";
-BETTY_DOC="betty-doc";
-	
 int main(void)
 {
 	int n;
@@ -26,4 +22,3 @@ int main(void)
 		printf("%d is zero\n", n);
 	return (0);
 }
-
