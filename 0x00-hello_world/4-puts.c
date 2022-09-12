@@ -1,5 +1,9 @@
 #include <stdio.h>
-/* hello world */
+/**
+* main - entry point
+*
+*Return : 0 after printing the function
+*/
 int main(void)
 {/* main function*/
 puts("\"Programming is like building a multilingual puzzle");
