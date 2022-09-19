@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * modif_my_param - set the integer to 98
- * Return: nothing
+ * reset_to_98 -> the function
+ * @n: nothing
  */
 void reset_to_98(int *n)
 {
