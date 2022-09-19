@@ -5,7 +5,5 @@
  */
 void reset_to_98(int *n)
 {
-printf("Value of 'm': %p\n", m);
-printf("Address of 'm': %p\n", &m);
-*m = 98;
+*n = 98;
 }
